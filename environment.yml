@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+dependencies:
+  - gwosc=0.5.8
+  - gwpy=2.0.4
+  - ipykernel>=5.2.0
+  - python=3.9
+name: iss-2021
